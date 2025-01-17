@@ -17,10 +17,10 @@ using namespace std;
 int main()
 {
 	string filename;
-	int aisle_num = 25;
-	int	location_Size = 181;
-	int item_Num = 7;
-	int blockNum = 1;
+	int aisle_num = 30;
+	int	location_Size = 11;
+	int item_Num = 10;
+	int blockNum = 3;
 	int instance_Num = 50;
 	ofstream outFile;
 
